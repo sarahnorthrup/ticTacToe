@@ -74,7 +74,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 Follow React guidelines and install formik. I added an API that retrieves cat articles and webpages. 
 
 ## Future Improvements
-I want to add a function to keep score and clear score. This could be accomplished by adding a simple counter for both players. Potentially adding additional CSS formatting. 
+I want to add a function to keep score and clear score. Potentially adding additional CSS formatting. 
+
+This could be accomplished by adding a simple counter for both players. I think a conditional loop should be fine and then assigning a variable to the sum of the total. A clear function could be accomplished by resetting the sum to 0. I could update the CSS within the program.  I could also add some bootstrap themes. I usually like to combine both bootstrap and my own customization to the Boostrap. 
 
 ## Lisense 
 ### The MIT License
